@@ -10,7 +10,7 @@ A atividade propôs que fossem criados 3 botões semelhantes a um e-commerce, on
 
 ### Links
 
-- Live Site URL: [site URL](https://wellingtonmarques96.github.io/exercicio-hooks/)
+- Live Site URL: [site URL]()
 
 ## Meu processo
 
